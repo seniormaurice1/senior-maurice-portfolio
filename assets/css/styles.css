@@ -149,8 +149,6 @@ nav ul li {
 .more-about p {
   line-height: var(--line-height);
   padding: 0.4rem;
-  margin-left: 75px;
-  margin-right: 75px;
   justify-content: center;
 }
 /* More about ends */
